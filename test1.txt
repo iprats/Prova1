@@ -1,4 +1,3 @@
 Hola aixo es el primer fitxer que afageixo al repositori.
 
-I ara modifico aquest fitxer per la branca1
-
+Text de relleno
